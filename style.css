@@ -1,0 +1,28 @@
+#resume, #jeux, #articles, #work, #hobbys, {
+-webkit-box-shadow: 1px 1px 10px -6px rgba(0,0,199,0.74);
+-moz-box-shadow: 1px 1px 10px -6px rgba(0,0,199,0.74);
+box-shadow: 1px 1px 10px -6px rgba(0,0,199,0.74);
+}
+
+body {
+	background-image: url(images/seigaiha.png);
+}	
+
+@font-face {
+    font-family: "josefin";
+    src: url('josefin.ttf');
+}
+
+h4 {
+	font-family: "josefin";
+	padding-bottom: 15px;
+}
+
+h5 {
+	text-align: center;
+	margin-bottom: 35px;
+}
+
+article>ul>li {
+	margin-top: 15px;
+}
