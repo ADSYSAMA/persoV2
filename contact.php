@@ -21,7 +21,6 @@
         <div class="tab-content">
           <div class="tab-pane active fade in" id="contact">
             <form role="form">
-              <h4>Comment m'avez-vous trouvé ?</h4>
               <fieldset>
                 <div class="radio">
                   <label for="ami" class="radio">
@@ -56,7 +55,7 @@
           </div>
           <div class="tab-pane fade" id="informations">
             <div>
-              <h2>Informations pratiques</h2>
+              <h4>Informations pratiques</h4>
               <ul style="list-style:none">
                 <li>Téléphone : 07-62-88-71-07</li>
                 <li>Email : adrien.simon@edu.esiee.fr</li>
