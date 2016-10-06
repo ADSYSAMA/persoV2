@@ -36,7 +36,7 @@
 		  	</ul>
 		  </div>
 		  <div class="col-md-12">
-		  	<hr style="width:60%; color:#B2C7FF; background-color:#777; height:1px; margin-top:25px; opacity:0.5;"/>
+		  	<hr style="width:80%; color:#B2C7FF; background-color:#777; height:1px; margin-top:25px; opacity:0.5;"/>
 		  </div>
 		</div>
 
