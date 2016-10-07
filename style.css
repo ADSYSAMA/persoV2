@@ -1,28 +1,37 @@
-#resume, #jeux, #articles, #work, #hobbys, {
--webkit-box-shadow: 1px 1px 10px -6px rgba(0,0,199,0.74);
--moz-box-shadow: 1px 1px 10px -6px rgba(0,0,199,0.74);
-box-shadow: 1px 1px 10px -6px rgba(0,0,199,0.74);
+@font-face {
+    font-family: "Adam";
+    src: url('Adam.otf');
 }
 
 body {
-	background-image: url(images/seigaiha.png);
+	background-image: url(images/bg.jpg);
+	font-family: "Adam";
+	color: white;
 }	
 
-@font-face {
-    font-family: "josefin";
-    src: url('josefin.ttf');
-}
-
-h4 {
-	font-family: "josefin";
-	padding-bottom: 15px;
-}
-
-h5 {
+h1, h2, .social {
 	text-align: center;
-	margin-bottom: 35px;
+	opacity: 0.8;
 }
 
-article>ul>li {
-	margin-top: 15px;
+h1 {
+	font-size: 75px;
+	margin-top: -195px;
+}
+
+h2 {
+	font-size: 22px;
+}
+
+.social {
+	margin-top: 140px;
+}
+
+.mail {
+	display: block;
+	text-align: center;
+	font-size: 24px;
+	color: white;
+	opacity: 0.6;
+	margin-top: 8px;
 }
